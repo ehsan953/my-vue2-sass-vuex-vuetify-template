@@ -1,4 +1,4 @@
-# my-vue2-sass-vuex-template
+# my-vue2-sass-vuex-vuetify-template
 
 ## Project setup
 ```
